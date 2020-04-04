@@ -1,0 +1,8 @@
+digraph automata{
+	rankdir = LR;
+	node [shape = circle];
+	2 [shape = doublecircle];
+	inicio [shape = point];
+	1 -> 2 [label = "a"];
+	inicio -> 1 [label = "inicio"];
+}
