@@ -1,5 +1,5 @@
-#PROYECTO
-##Compilador de c usando flex y yacc
+# PROYECTO
+## Compilador de c usando flex y yacc
 
 Se tomó como referencia los archivos:
 
